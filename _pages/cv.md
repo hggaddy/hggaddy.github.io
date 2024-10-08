@@ -11,19 +11,17 @@ redirect_from:
 
 Education
 ======
-* MPhil in Sociology and Demography, University of Oxford (Nuffield College), 2023
-* BA in Human Sciences, University of Oxford (Magdalen College), 2021
+* PhD in Economic History, LSE, in progress
+* MPhil in Sociology and Demography, University of Oxford, 2023
+* BA in Human Sciences, University of Oxford, 2021
 
 Work experience
 ======
 * x
-  * x
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* x
   
 Talks
 ======
