@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* BA in Human Sciences, University of Oxford, 2021
+* MPhil in Sociology and Demography, University of Oxford (Nuffield College), 2023
+* BA in Human Sciences, University of Oxford (Magdalen College), 2021
 
 Work experience
 ======
@@ -26,9 +27,7 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* x
   
 Teaching
 ======

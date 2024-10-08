@@ -21,12 +21,12 @@ repository               : "hggaddy/hggaddy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "he/him"  
-  bio              : "Historical Demography PhD Student at LSE"
+  avatar           : "profile.jpg"
+  name             : "Hampton Gaddy"
+  pronouns         : "he/him"  
+  bio              : "Demographer-in-training"
   location         : "London, UK"
-  employer         : "LSE"
+  employer         : "London School of Economics"
   uri              : # URL
   email            : "h.g.gaddy@lse.ac.uk" 
 
