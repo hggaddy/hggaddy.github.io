@@ -50,9 +50,9 @@ disease research. <i>Social Science & Medicine</i> 258: 113107. <a href="https:/
 
 <h2>Other employment</h2>
 * Calleva Research Centre for Evolution and Human Science, University of Oxford
-  * Administrative Assistant, 2023–
+  * Administrative assistant, 2023–
 * Magdalen College, University of Oxford
-  * BA Human Sciences Admissions Interviewer, 2023
+  * BA Human Sciences admissions interviewer, 2023
 * Centre for Experimental Social Sciences, University of Oxford
   * Laboratory assistant, 2022–23
 
@@ -63,7 +63,7 @@ disease research. <i>Social Science & Medicine</i> 258: 113107. <a href="https:/
   * GREATLEAP, Management Committee member, 2023–
   * Institute of Human Sciences, Oxford, Student representative, 2020
 * Conference organisation
-  * European Social Science History Conference (ESSHC), Session Organiser (2025)
-  * British Society of Population Studies (BSPS), Session Chair (2024, 2022 x 2)
+  * European Social Science History Conference (ESSHC), Session organiser (2025)
+  * British Society of Population Studies (BSPS), Session chair (2024, 2022 x 2)
 * Peer review
   * <i>Demography</i> (2), <i>Population Studies</i> (1), <i>Schizophrenia</i> (1), <i>Human Ecology</i> (1), <i>EcoHealth</i> (1), <i>Ethnobiology and Conservation</i> (1), Czech Science Foundation (1)
