@@ -19,10 +19,11 @@ Education
 Academic positions
 ======
 * Oslo Metropolitan University
-** Research Fellow (Forsker III), Centre for Pandemics & Society (PANSOC), 2024–
+  * Research Fellow (Forsker III), Centre for Pandemics & Society (PANSOC), 2024–
+
 
 Teaching positions
 ======
 * University of Oxford
-** Instructor for "Demography and Population" (BA Human Sciences & BA Philosophy, Politics, and Economics), 2022–
-** Instructor for "Introduction to Demography" (BA Human Sciences), 2023
+  * Instructor for "Demography and Population" (BA Human Sciences & BA Philosophy, Politics, and Economics), 2022–
+  * Instructor for "Introduction to Demography" (BA Human Sciences), 2023
