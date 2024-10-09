@@ -9,28 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<h2>Education</h2>
 * PhD in Economic History, LSE, in progress
 * MPhil in Sociology and Demography, University of Oxford, 2023
 * BA in Human Sciences, University of Oxford, 2021
 
 
-Academic positions
-======
+<h2>Academic positions</h2>
 * Oslo Metropolitan University
   * Research Fellow (Forsker III), Centre for Pandemics & Society (PANSOC), 2024–
 
 
-Teaching positions
-======
+<h2>Teaching positions</h2>
 * University of Oxford
   * Instructor for "Demography and Population" (BA Human Sciences & BA Philosophy, Politics, and Economics), 2022–
   * Instructor for "Introduction to Demography" (BA Human Sciences), 2023
 
 
-Publications
-======
+<h2>Publications</h2>
 <ol>
   <li><strong>Gaddy, H.</strong>, & Mølbak Ingholt, M. (2023). Did the 1918 pandemic cause a 1920 baby boom? Demographic evidence from neutral Europe. <i>Population Studies</i>, 78: 269–287. <a href="https://doi.org/10.1080/00324728.2023.2192041">doi:10.1080/00324728.2023.2192041</a></li>
   <li><strong>Gaddy, H.</strong> (2021). Social distancing and influenza mortality in
@@ -44,10 +40,10 @@ disease research. <i>Social Science & Medicine</i> 258: 113107. <a href="https:/
 </ol>
 
 
-Awards
-======
+<h2>Awards</h2>
 * LSE PhD Studentship, London School of Economics, 2023–28
 * <a href="https://population-europe.eu/network/news-network/eshd-announces-years-eshd-award-winners">Roger Schofield Award</a> for Best Paper by a Young Demographer, European Society of Historical Demography, 2022
 * Grand Union Doctoral Training Partnership Scholarship, Economic and Social Research Council (ESRC) and Nuffield College, Oxford, 2021–23
 * <a href="https://www.ihs.ox.ac.uk/article/winners-2021-bob-hiorns-and-wilma-crowther-prizes-announced">Wilma Crowther Prize</a> for Best Undergraduate Dissertation, Institute of Human Sciences, Oxford, 2021
 * Demyship (highest undergraduate prize), Magdalen College, Oxford, 2020
+
