@@ -15,9 +15,9 @@ My PhD thesis focuses on re-estimating the death toll of the 1918 influenza pand
 
 At LSE, I am based in <a href="https://www.lse.ac.uk/economic-history">the Department of Economic History</a>, but I am involved in the community of demographers spread across the university and beyond. I co-organise LSE's cross-department Demography Seminar Series, and further afield, I am on the Board of <a href="https://www.younghistoricaldemographers.com/">the Association of Young Historical Demographers</a>.
 
-Before landing at LSE, I completed a MPhil in Demography at <a href="https://www.nuffield.ox.ac.uk/">Nuffield College, University of Oxford</a>. During my MPhil, I was affiliated with Oxford's <a href="https://www.demography.ox.ac.uk/">Leverhulme Centre for Demographic Science</a> and <a href="https://www.sociology.ox.ac.uk/">Department of Sociology</a>. Before that, I completed a BA at Oxford's <a href="https://www.ihs.ox.ac.uk/">Institute of Human Sciences</a>, which teaches an interdisciplinary programme of biology and social science.
+Before landing at LSE, I completed a MPhil in Demography at <a href="https://www.nuffield.ox.ac.uk/">Nuffield College, University of Oxford</a>. During my MPhil, I was affiliated with Oxford's <a href="https://www.demography.ox.ac.uk/">Leverhulme Centre for Demographic Science</a> and <a href="https://www.sociology.ox.ac.uk/">Department of Sociology</a>. Before that, I completed a BA in Human Sciences at the University of Oxford, an interdisciplinary programme of biology and social science.
 
-<h3>Current projects</h3>
+<h2>Current projects</h2>
 
 If you want to read what I am working on at the moment, here are a few of my current preprints!
 
