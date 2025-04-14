@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=s3PC39wAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-6397-4679"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Username
+  bluesky          : "hggaddy.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "hggaddy"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

@@ -19,7 +19,7 @@ Before landing at LSE, I completed a MPhil in Demography at <a href="https://www
 
 <h2>Latest publication</h2>
 
-* Gaddy, H.</strong>, & Gargiulo, M. (2025). Can we estimate crisis death tolls by subtracting total population estimates? A critical review and 
+* <strong>Gaddy, H.</strong>, & Gargiulo, M. (2025). Can we estimate crisis death tolls by subtracting total population estimates? A critical review and 
 appraisal. <i>Demographic Research</i>, 52: 741–796. <a href="https://doi.org/10.4054/DemRes.2025.52.23">doi:10.4054/DemRes.2025.52.23</a>
 
 <h2>Current projects</h2>
