@@ -20,6 +20,10 @@ redirect_from:
   * Research Fellow (Forsker III), Centre for Pandemics & Society (PANSOC), 2024
 
 
+<h2>Academic affiliations</2>
+* Leverhulme Centre for Demographic Research, University of Oxford, 2025–
+
+
 <h2>Teaching positions</h2>
 * University of Oxford
   * Instructor for "Demography and Population" (BA Human Sciences & BA Philosophy, Politics, and Economics), 2022–
@@ -62,7 +66,7 @@ disease research. <i>Social Science & Medicine</i> 258: 113107. <a href="https:/
 * Positions
   * LSE Demography Seminar Series, Co-organiser, 2024–
   * Association of Young Historical Demographers, Board member, 2024–
-  * GREATLEAP, Management Committee member, 2023–
+  * GreatLeap, COST Management Committee member, 2023–
   * Institute of Human Sciences, Oxford, Student representative, 2020
 * Conference organisation
   * PopFest, Historical Demography strand co-organiser (2025)
