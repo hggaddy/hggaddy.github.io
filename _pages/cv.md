@@ -20,8 +20,8 @@ redirect_from:
   * Research Fellow (Forsker III), Centre for Pandemics & Society (PANSOC), 2024
 
 
-<h2>Academic affiliations</2>
-* Leverhulme Centre for Demographic Research, University of Oxford, 2025–
+<h2>Academic affiliations</h2>
+* Leverhulme Centre for Demographic Science, University of Oxford, 2025–
 
 
 <h2>Teaching positions</h2>
