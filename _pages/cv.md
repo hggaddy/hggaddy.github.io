@@ -71,4 +71,4 @@ redirect_from:
   * PopFest, Historical Demography strand co-organiser (2025)
   * British Society of Population Studies (BSPS), Session chair (2024; 2022 x 2)
 * Peer review
-  * <i>Demography</i> (2), <i>International Journal of Epidemiology</i> (1), <i>Population Studies</i> (1), <i>Schizophrenia</i> (1), <i>Violence Against Women</i> (1), <i>Humanities & Social Sciences Communications</i> (1), <i>Journal of Comparative Family Studies</i> (1), <i>Human Ecology</i> (1), <i>EcoHealth</i> (1), <i>Ethnobiology and Conservation</i> (1), Czech Science Foundation (1)
+  * <i>Demography</i> (2), <i>International Journal of Epidemiology</i> (1), <i>Population Studies</i> (1), <i>Schizophrenia</i> (1), <i>Violence Against Women</i> (1), <i>Humanities & Social Sciences Communications</i> (1), <i>Population Research and Policy Review</i> (1), <i>Journal of Comparative Family Studies</i> (1), <i>Human Ecology</i> (1), <i>Discover Public Health</i> (1), <i>EcoHealth</i> (1), <i>Ethnobiology and Conservation</i> (1), Czech Science Foundation (1)
