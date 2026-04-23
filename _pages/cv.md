@@ -1,4 +1,4 @@
- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -45,6 +45,7 @@ redirect_from:
 
 
 <h2>Awards and grants</h2>
+* <a href="https://www.ipums.org/2025-award-winners">IPUMS Research Award</a> for Best Paper by a Student using IPUMS International Data (co-recipient), Institute for Social Research and Data Innovation, University of Minnesota, 2026
 * LSE PhD Studentship, London School of Economics, 2023–28
 * <a href="https://population-europe.eu/network/news-network/eshd-announces-years-eshd-award-winners">Roger Schofield Award</a> for Best Paper by a Young Demographer, European Society of Historical Demography, 2022
 * Grand Union Doctoral Training Partnership Scholarship, Economic and Social Research Council (ESRC) and Nuffield College, Oxford, 2021–23
