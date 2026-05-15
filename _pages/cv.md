@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h2>Education</h2>
-* PhD in Economic History, LSE, in progress
+* PhD in Economic History, LSE, Summer 2026 (expected)
 * MPhil in Sociology and Demography, University of Oxford, 2023
 * BA in Human Sciences, University of Oxford, 2021
 
@@ -38,7 +38,7 @@ redirect_from:
   <li><strong>Gaddy, H.</strong>, & Gargiulo, M. (2025). Can we estimate crisis death tolls by subtracting total population estimates? A critical review and appraisal. <i>Demographic Research</i>, 52: 741–796. <a href="https://doi.org/10.4054/DemRes.2025.52.23">doi:10.4054/DemRes.2025.52.23</a></li>
   <li><strong>Gaddy, H.</strong>, & Mølbak Ingholt, M. (2024). Did the 1918 pandemic cause a 1920 baby boom? Demographic evidence from neutral Europe. <i>Population Studies</i>, 78: 269–287. <a href="https://doi.org/10.1080/00324728.2023.2192041">doi:10.1080/00324728.2023.2192041</a></li>
   <li><strong>Gaddy, H.</strong> (2021). Social distancing and influenza mortality in 1918 did not increase suicide rates in the United States. <i>SSM – Population Health</i>, 6: 100944. <a href="https://doi.org/10.1016/j.ssmph.2021.100944">doi:10.1016/j.ssmph.2021.100944</a></li>
-  <li><strong>Gaddy, H.</strong> (2021). A decade of TFR declines suggests no relationship between development and sub-replacement fertility rebounds. Demographic Research 44: 125–142. <a href="https://doi.org/10.4054/DemRes.2021.44.5">doi:10.4054/DemRes.2021.44.5</a></li>
+  <li><strong>Gaddy, H.</strong> (2021). A decade of TFR declines suggests no relationship between development and sub-replacement fertility rebounds. <i>Demographic Research</i> 44: 125–142. <a href="https://doi.org/10.4054/DemRes.2021.44.5">doi:10.4054/DemRes.2021.44.5</a></li>
   <li><strong>Gaddy, H.</strong> (2020). Brexit and the geography of depression. <i>Social Science & Medicine</i> 264: 113276. <a href="https://doi.org/10.1016/j.socscimed.2020.113276">doi:10.1016/j.socscimed.2020.113276</a></li>
   <li><strong>Gaddy, H.</strong> (2020). Using local knowledge in emerging infectious disease research. <i>Social Science & Medicine</i> 258: 113107. <a href="https://doi.org/10.1016/j.socscimed.2020.113107">doi:10.1016/j.socscimed.2020.113107</a></li>
 </ol>
@@ -54,7 +54,7 @@ redirect_from:
 
 
 <h2>Other employment</h2>
-* Calleva Research Centre for Evolution and Human Science, University of Oxford
+* Calleva Research Centre, Magdalen College, University of Oxford
   * Administrative assistant, 2023–
 * Magdalen College, University of Oxford
   * BA Human Sciences admissions interviewer, 2023
@@ -72,4 +72,5 @@ redirect_from:
   * PopFest, Historical Demography strand co-organiser (2025)
   * British Society of Population Studies (BSPS), Session chair (2024; 2022 x 2)
 * Peer review
-  * <i>Demography</i> (2), <i>International Journal of Epidemiology</i> (1), <i>Population Studies</i> (1), <i>Population and Development Review</i> (1), <i>Canadian Studies in Population</i> (1), <i>npj Schizophrenia</i> (1), <i>Violence Against Women</i> (1), <i>Journal of Epidemiology and Global Health</i> (1), <i>Humanities & Social Sciences Communications</i> (1), <i>Population Research and Policy Review</i> (1), <i>Journal of Comparative Family Studies</i> (1), <i>Journal of Population Ageing</i> (1), <i>Human Ecology</i> (1), <i>Discover Public Health</i> (1), <i>EcoHealth</i> (1), <i>Ethnobiology and Conservation</i> (1), Czech Science Foundation (1)
+  * Field: Demography — <i>Demography</i> (2), <i>Population Studies</i> (2), <i>Population and Development Review</i> (1), <i>Population Research and Policy Review</i> (1), <i>Canadian Studies in Population</i> (1), <i>Journal of Comparative Family Studies</i> (1), <i>Journal of Population Ageing</i> (1), <i>Humanities & Social Sciences Communications</i> (1)
+  * Field: Epidemiology and public health — <i>International Journal of Epidemiology</i> (1), <i>Journal of Epidemiology and Global Health</i> (1), <i>npj Schizophrenia</i> (1), <i>Violence Against Women</i> (1), <i>Discover Public Health</i> (1), <i>EcoHealth</i> (1), Czech Science Foundation (1), <i>Human Ecology</i> (1), <i>Ethnobiology and Conservation</i> (1)
