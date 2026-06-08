@@ -33,6 +33,7 @@ redirect_from:
 
 <h2>Publications</h2>
 <ol>
+  <li><strong>Gaddy, H.</strong> (2026). We are our memory: A flexible framework for quantifying the demographic imprints of the past. In press at <i>Population and Development Review</i>. <a href="https://osf.io/preprints/socarxiv/6r5b8">Preprint</a></li>
   <li><strong>Gaddy, H.</strong>, Sear, R., & Fortunato, L. (2025). High rates of polygyny do not lock large proportions of men out of the marriage market. <i>PNAS</i>, 122(40): e2508091122. <a href="https://doi.org/10.1073/pnas.2508091122">doi:10.1073/pnas.2508091122</a></li>
   <li>Blinkova, A.O., Khakurel, U., <strong>Gaddy, H.</strong>, Mamelund, S.-E., & Bekker-Nielsen Dunbar, M. (2025). Construction and curation of a data set of historical mental health incidence in Norway. <i>Scientific Data</i> 12: 1510. <a href="https://doi.org/10.1038/s41597-025-05795-y">doi:10.1038/s41597-025-05795-y</a></li>
   <li><strong>Gaddy, H.</strong>, & Gargiulo, M. (2025). Can we estimate crisis death tolls by subtracting total population estimates? A critical review and appraisal. <i>Demographic Research</i>, 52: 741–796. <a href="https://doi.org/10.4054/DemRes.2025.52.23">doi:10.4054/DemRes.2025.52.23</a></li>
@@ -67,10 +68,11 @@ redirect_from:
   * Association of Young Historical Demographers, Board member, 2024–
   * GreatLeap, COST Management Committee member, 2023–
 * Conference organisation
+  * <a href = "https://www.lse.ac.uk/Economic-History/HED/Workshops/One-Epidemic-Many-Estimates-1EME">"Bridging methods to measure excess mortality: the One Epidemic, Many Estimates (1EME) workshop"</a>, Organiser (2026)
   * European Society of Historical Demography (ESHD), Session chair (2025)
   * European Social Science History Conference (ESSHC), Session organiser and discussant (2025)
   * PopFest, Historical Demography strand co-organiser (2025)
   * British Society of Population Studies (BSPS), Session chair (2024; 2022 x 2)
 * Peer review
   * Field: Demography — <i>Demography</i> (2), <i>Population Studies</i> (2), <i>Population and Development Review</i> (1), <i>Population Research and Policy Review</i> (1), <i>Canadian Studies in Population</i> (1), <i>Journal of Comparative Family Studies</i> (1), <i>Journal of Population Ageing</i> (1), <i>Humanities & Social Sciences Communications</i> (1)
-  * Field: Epidemiology and public health — <i>International Journal of Epidemiology</i> (1), <i>Journal of Epidemiology and Global Health</i> (1), <i>npj Schizophrenia</i> (1), <i>Violence Against Women</i> (1), <i>Discover Public Health</i> (1), <i>EcoHealth</i> (1), Czech Science Foundation (1), <i>Human Ecology</i> (1), <i>Ethnobiology and Conservation</i> (1)
+  * Field: Epidemiology and public health — <i>International Journal of Epidemiology</i> (1), <i>Journal of Epidemiology and Global Health</i> (1), <i>npj Schizophrenia</i> (1), <i>BMC Public Health</i> (1), <i>Violence Against Women</i> (1), <i>Discover Public Health</i> (1), <i>EcoHealth</i> (1), Czech Science Foundation (1), <i>Human Ecology</i> (1), <i>Ethnobiology and Conservation</i> (1)
