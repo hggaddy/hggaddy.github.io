@@ -15,9 +15,9 @@ I am an affiliate of the <a href = "https://www.demography.ox.ac.uk/">Leverhulme
 
 Most of my work focuses on the societal impacts of social and demographic crises. I have a particular focus on better understanding the 1918 influenza pandemic, but I have also worked on the trends in high-income national fertility after the 2009 global financial crisis and on the geography of mental health around the 2016 Brexit referendum in the UK. One of my bigger collaborative projects uses census microdata data from 1880s through the 2010s to test how polygyny affects marriage markets and might impact social conflict.
 
-Beyond Oxford, I am involved in the wider community of demographers, serving on the management board of <a href="https://www.younghistoricaldemographers.com/">the Association for Young Historical Demographers</a> and the EU-funded <a href="https://greatleap.eu/">GreatLeap</a> project.
+Beyond Oxford, I am involved in the wider community of demographers, serving on the management board of the <a href="https://www.younghistoricaldemographers.com/">Association for Young Historical Demographers</a> and the EU-funded <a href="https://greatleap.eu/">GreatLeap</a> project.
 
-Prior to my PhD, I completed a MPhil in Demography at <a href="https://www.nuffield.ox.ac.uk/">Nuffield College, University of Oxford</a> and Oxford's <a href="https://www.sociology.ox.ac.uk/">Department of Sociology</a>. Before that, I completed a BA in Human Sciences at the University of Oxford, an interdisciplinary programme of biology and social science.
+Prior to my PhD, I completed a MPhil in Demography at <a href="https://www.nuffield.ox.ac.uk/">Nuffield College, Oxford</a> and Oxford's <a href="https://www.sociology.ox.ac.uk/">Department of Sociology</a>. Before that, I completed a BA in Human Sciences at the University of Oxford, an interdisciplinary programme of biology and social science.
 
 <h2>Latest publications</h2>
 
