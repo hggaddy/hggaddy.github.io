@@ -25,10 +25,10 @@ author:
   name             : "Hampton Gaddy"
   pronouns         : "he/him"  
   bio              : "Demographer"
-  location         : "London, UK"
-  employer         : "LSE"
+  location         : "Oxford, UK"
+  employer         : # Employer
   uri              : # URL
-  email            : "h.g.gaddy@lse.ac.uk" 
+  email            : "hampton.gaddy@magd.ox.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

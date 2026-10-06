@@ -10,12 +10,15 @@ redirect_from:
 {% include base_path %}
 
 <h2>Education</h2>
-* PhD in Economic History, LSE, Summer 2026 (expected)
+* PhD in Economic History, LSE, 2026 (awaiting viva)
 * MPhil in Sociology and Demography, University of Oxford, 2023
 * BA in Human Sciences, University of Oxford, 2021
 
 
 <h2>Academic positions</h2>
+* Magdalen College, University of Oxford
+  * Assistant Director, Calleva Research Centre, October 2026–
+  * Postdoctoral Researcher, October 2026–
 * Oslo Metropolitan University
   * Research Fellow (Forsker III), Centre for Pandemics & Society (PANSOC), January–December 2024
 
@@ -56,7 +59,7 @@ redirect_from:
 
 <h2>Other employment</h2>
 * Calleva Research Centre, Magdalen College, University of Oxford
-  * Administrative assistant, 2023–
+  * Administrative assistant, 2023–26
 * Magdalen College, University of Oxford
   * BA Human Sciences admissions interviewer, 2023
 * Centre for Experimental Social Sciences, University of Oxford
@@ -65,7 +68,7 @@ redirect_from:
 <h2>Service</h2>
 * Current positions
   * LSE Historical Economic Demography Group, Advisory Board Member, 2025–
-  * Association of Young Historical Demographers, Board member, 2024–
+  * Association for Young Historical Demographers, Board member, 2024–
   * GreatLeap, COST Management Committee member, 2023–
 * Conference organisation
   * <a href = "https://www.lse.ac.uk/Economic-History/HED/Workshops/One-Epidemic-Many-Estimates-1EME">"Bridging methods to measure excess mortality: the One Epidemic, Many Estimates (1EME) workshop"</a>, Organiser (2026)

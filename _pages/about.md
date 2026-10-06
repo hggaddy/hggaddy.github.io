@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD student in demography and economic history at the <a href = "https://www.lse.ac.uk/economic-history">London School of Economics</a>. In October 2026, I will join <a href="https://www.magd.ox.ac.uk/">Magdalen College, Oxford</a> as a postdoctoral researcher and as the Assistant Director of the Calleva Research Centre, Magdalen's interdisciplinary centre of research excellence. 
+Hi! I'm a postdoctoral researcher in demography at <a href="https://www.magd.ox.ac.uk/">Magdalen College, Oxford</a> and the Assistant Director of the <a href = "https://callevacentre.org/">Calleva Research Centre</a>, Magdalen's interdisciplinary centre of research excellence. In Summer 2026, I submitted my PhD thesis at the <a href = "https://www.lse.ac.uk/economic-history">London School of Economics</a>, and I am currently awaiting my viva.
 
-I am also an affiliate of the <a href = "https://www.demography.ox.ac.uk/">Leverhulme Centre for Demographic Science</a> at the University of Oxford, and throughout 2024, I was a Research Fellow (Forsker III) at Oslo Metropolitan University's <a href="https://www.oslomet.no/en/pansoc">Centre for Research on Pandemics & Society (PANSOC)</a>.
+I teach demography on the BA Human Sciences and BA Philosophy, Politics, and Economics courses in Oxford, running quantitative classes and essay-based tutorials. 
+
+I am an affiliate of the <a href = "https://www.demography.ox.ac.uk/">Leverhulme Centre for Demographic Science</a> at the University of Oxford, and throughout 2024, I was a Research Fellow (Forsker III) at Oslo Metropolitan University's <a href="https://www.oslomet.no/en/pansoc">Centre for Research on Pandemics & Society (PANSOC)</a>. My work has been the recipient of an <a href = "https://www.ipums.org/2025-award-winners">IPUMS Research Award</a> and the European Society of Historical Demography's <a href = "https://population-europe.eu/network/news-network/eshd-announces-years-eshd-award-winners">Roger Schofield Award</a> for Best Paper by a Young Demographer.
 
 Most of my work focuses on the societal impacts of social and demographic crises. I have a particular focus on better understanding the 1918 influenza pandemic, but I have also worked on the trends in high-income national fertility after the 2009 global financial crisis and on the geography of mental health around the 2016 Brexit referendum in the UK. One of my bigger collaborative projects uses census microdata data from 1880s through the 2010s to test how polygyny affects marriage markets and might impact social conflict.
 
-At LSE, I am based in <a href="https://www.lse.ac.uk/economic-history">the Department of Economic History</a>. Further afield, I am involved in the community of demographers spread across the university and beyond, serving on the management board of <a href="https://www.younghistoricaldemographers.com/">the Association for Young Historical Demographers</a> and the EU-funded <a href="https://greatleap.eu/">GreatLeap</a> project.
+Beyond Oxford, I am involved in the wider community of demographers, serving on the management board of <a href="https://www.younghistoricaldemographers.com/">the Association for Young Historical Demographers</a> and the EU-funded <a href="https://greatleap.eu/">GreatLeap</a> project.
 
-Before landing at LSE, I completed a MPhil in Demography at <a href="https://www.nuffield.ox.ac.uk/">Nuffield College, University of Oxford</a>. During my MPhil, I was also affiliated with Oxford's <a href="https://www.sociology.ox.ac.uk/">Department of Sociology</a>. Before that, I completed a BA in Human Sciences at the University of Oxford, an interdisciplinary programme of biology and social science.
+Prior to my PhD, I completed a MPhil in Demography at <a href="https://www.nuffield.ox.ac.uk/">Nuffield College, University of Oxford</a> and Oxford's <a href="https://www.sociology.ox.ac.uk/">Department of Sociology</a>. Before that, I completed a BA in Human Sciences at the University of Oxford, an interdisciplinary programme of biology and social science.
 
 <h2>Latest publications</h2>
 
@@ -26,5 +28,5 @@ Before landing at LSE, I completed a MPhil in Demography at <a href="https://www
 
 If you want to read what I am working on at the moment, here are preprints of a few of my current projects!
 
-* "The missing Pacific influenza epidemics, 1918–21" (with Svenn-Erik Mamelund and Michael G. Baker), <a href="https://osf.io/preprints/socarxiv/4mb5a">doi:10.31235/osf.io/4mb5a_v2</a>
+* "The missing Pacific influenza epidemics, 1918–21" (with Svenn-Erik Mamelund and Michael G Baker), <a href="https://osf.io/preprints/socarxiv/4mb5a">doi:10.31235/osf.io/4mb5a_v2</a>
 * "Death registration incompleteness and demographic structure obscure the inequality of Alaska Natives in the 1918 influenza pandemic", <a href="https://osf.io/preprints/socarxiv/yu7bt">doi:10.31235/osf.io/yu7bt_v1</a>
