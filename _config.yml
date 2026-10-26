@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Hampton Gaddy"
+locale                   : "en-GB"
+title                    : "Dr Hampton Gaddy"
 title_separator          : "-"
-name                     : &name "Hampton Gaddy"
+name                     : &name "Dr Hampton Gaddy"
 description              : &description "Demographer"
 url                      : https://hggaddy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "hggaddy/hggaddy.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hampton Gaddy"
+  name             : "Dr Hampton Gaddy"
   pronouns         : "he/him"  
   bio              : "Demographer"
   location         : "Oxford, UK"

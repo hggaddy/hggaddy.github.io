@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h2>Education</h2>
-* PhD in Economic History, LSE, 2026 (awaiting viva)
+* PhD in Economic History, London School of Economics, 2026
 * MPhil in Sociology and Demography, University of Oxford, 2023
 * BA in Human Sciences, University of Oxford, 2021
 
@@ -24,8 +24,8 @@ redirect_from:
 
 
 <h2>Academic affiliations</h2>
-* Leverhulme Centre for Demographic Science, University of Oxford, July 2025–
-* Centre for Advanced Study at the Norwegian Academy of Science and Letters, Short-term Residential Fellow, November–December 2025
+* Leverhulme Centre for Demographic Science, University of Oxford, Affiliate, July 2025–
+* Centre for Advanced Study at the Norwegian Academy of Science and Letters, Academic visitor, November–December 2025
 
 
 <h2>Teaching positions</h2>
@@ -50,7 +50,7 @@ redirect_from:
 
 <h2>Awards and grants</h2>
 * <a href="https://www.ipums.org/2025-award-winners">IPUMS Research Award</a> for Best Paper by a Student using IPUMS International Data (co-recipient), Institute for Social Research and Data Innovation, University of Minnesota, 2026
-* LSE PhD Studentship, London School of Economics, 2023–28
+* LSE PhD Studentship, London School of Economics, 2023–26
 * <a href="https://population-europe.eu/network/news-network/eshd-announces-years-eshd-award-winners">Roger Schofield Award</a> for Best Paper by a Young Demographer, European Society of Historical Demography, 2022
 * Grand Union Doctoral Training Partnership Scholarship, Economic and Social Research Council (ESRC) and Nuffield College, Oxford, 2021–23
 * <a href="https://www.ihs.ox.ac.uk/article/winners-2021-bob-hiorns-and-wilma-crowther-prizes-announced">Wilma Crowther Prize</a> for Best Undergraduate Dissertation, Institute of Human Sciences, Oxford, 2021
@@ -78,4 +78,4 @@ redirect_from:
   * British Society of Population Studies (BSPS), Session chair (2024; 2022 x 2)
 * Peer review
   * Field: Demography — <i>Demography</i> (2), <i>Population Studies</i> (2), <i>Population Research and Policy Review</i> (2), <i>Population and Development Review</i> (1), <i>Canadian Studies in Population</i> (1), <i>Journal of Comparative Family Studies</i> (1), <i>Journal of Population Ageing</i> (1), <i>Humanities & Social Sciences Communications</i> (1)
-  * Field: Epidemiology and public health — <i>International Journal of Epidemiology</i> (1), <i>Journal of Epidemiology and Global Health</i> (1), <i>npj Schizophrenia</i> (1), <i>BMC Public Health</i> (1), <i>Violence Against Women</i> (1), <i>Discover Public Health</i> (1), <i>EcoHealth</i> (1), Czech Science Foundation (1), <i>Human Ecology</i> (1), <i>Ethnobiology and Conservation</i> (1)
+  * Field: Epidemiology and public health — <i>International Journal of Epidemiology</i> (1), <i>Population Health Metrics</i> (1), <i>Journal of Epidemiology and Global Health</i> (1), <i>npj Schizophrenia</i> (1), <i>BMC Public Health</i> (1), <i>Violence Against Women</i> (1), <i>Discover Public Health</i> (1), <i>EcoHealth</i> (1), Czech Science Foundation (1), <i>Human Ecology</i> (1), <i>Ethnobiology and Conservation</i> (1)

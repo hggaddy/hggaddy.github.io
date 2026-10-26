@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a postdoctoral researcher in demography at <a href="https://www.magd.ox.ac.uk/">Magdalen College, Oxford</a> and the Assistant Director of the <a href = "https://callevacentre.org/">Calleva Research Centre</a>, Magdalen's interdisciplinary centre of research excellence. In Summer 2026, I submitted my PhD thesis at the <a href = "https://www.lse.ac.uk/economic-history">London School of Economics</a>, and I am currently awaiting my viva.
+Hi! I'm a postdoctoral researcher in demography at <a href="https://www.magd.ox.ac.uk/">Magdalen College, Oxford</a> and the Assistant Director of the <a href = "https://callevacentre.org/">Calleva Research Centre</a>, Magdalen's interdisciplinary centre of research excellence. I completed my PhD at the <a href = "https://www.lse.ac.uk/economic-history">London School of Economics</a> in 2026.
 
 I teach demography on the BA Human Sciences and BA Philosophy, Politics, and Economics courses in Oxford, running quantitative classes and essay-based tutorials. 
 
